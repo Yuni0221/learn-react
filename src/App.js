@@ -1,10 +1,10 @@
 import React from "react";
-import IterationSample from "./components/IterationSample";
+import OnlineStore from "./components/OnlineStore";
 
 function App() {
   return (
     <>
-      <IterationSample />
+      <OnlineStore />
     </>
   );
 }
